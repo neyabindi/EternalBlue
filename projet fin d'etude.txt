@@ -1,0 +1,29 @@
+projet fin d'etude
+
+
+******pourquoi le parefeu zyxel atp200 et no dlink: 
+
+pour la facilité du management par exmple des wifi priv;e et public
+pour les vlan aussi,les routes,les lien wan etc...
+pour pouvoir monter un vpn pour prendre la main sur les serveur de sites
+pour faire ds logs
+pour enregistrer les deux ssid privé et public
+
+*****pour le switch : zyxel 24 POE
+
+POUR LA GESTION DES 2 VLANS: lan ADMIN ET LAN PUBLIC
+
+***** nas POUR FAIRE DS log:DE GARDER PENDANT MAXIMUM 365 jours les logs des utilisateurs
+
+**** des bornes wifis qui sont connectés au switch(configurer les port admin et public)
+
+***** les centrals appel malades
+
+**** beronet est un commutateur VOIP pour la voip qui est branché sur la pate T0 de l'autocom
+
+**** au niveau des regles du parefeu: 
+    -attaqué le parefeu en HTTPS sur le port 45443
+    -regle https qui permet d'acceder directement à l'autocom via un port specifique
+
+**** lister le type d'incident que l'on retrouve par element et les resolutions evidentes!
+

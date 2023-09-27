@@ -1,0 +1,39 @@
+Bien sûr ! Voici un exemple de diapositive sur le sujet d'EternalBlue, qui est une vulnérabilité de sécurité exploitée par le ransomware WannaCry en 2017 :
+
+**Diapositive : EternalBlue**
+
+[Logo d'EternalBlue ou d'une icône représentative]
+
+1. **Introduction**
+   - Nom de la vulnérabilité : EternalBlue
+   - Date de la découverte : Mars 2017
+   - Impact : Vulnérabilité critique permettant l'exécution de code à distance
+
+2. **Description**
+   - Type de vulnérabilité : Exploit des SMB (Server Message Block) v1 de Windows
+   - Découverte par la NSA : La NSA a développé l'exploit, mais il a été divulgué par le groupe de pirates Shadow Brokers en 2017
+   - Attaque WannaCry : L'exploit EternalBlue a été utilisé par le ransomware WannaCry pour se propager rapidement à travers le monde
+
+3. **Fonctionnement**
+   - Exploit des vulnérabilités dans le protocole SMB v1
+   - Permet l'exécution de code malveillant à distance sans authentification
+   - Cible les systèmes Windows non patchés
+
+4. **Conséquences**
+   - WannaCry : Ransomware massif touchant des centaines de milliers d'ordinateurs dans le monde entier
+   - Pertes financières : Estimation de plusieurs milliards de dollars de dégâts
+   - Sensibilisation à la sécurité : Met en évidence l'importance des mises à jour de sécurité et de la prévention des attaques de ransomware
+
+5. **Contre-mesures**
+   - Patchs de sécurité : Appliquer les correctifs de sécurité fournis par Microsoft pour les versions vulnérables de Windows
+   - Mise à jour des systèmes : Assurer une maintenance régulière des systèmes pour minimiser les risques d'exploitation
+   - Désactiver SMB v1 : Désactiver le protocole SMB v1 pour réduire l'exposition à EternalBlue
+
+6. **Conclusion**
+   - EternalBlue a marqué un tournant dans le domaine de la cybersécurité
+   - Souligne l'importance de la collaboration entre les entreprises et les gouvernements pour combattre les cybermenaces
+   - Nécessite une vigilance continue pour se protéger contre de futures attaques similaires
+
+[Fin de la diapositive]
+
+N'hésitez pas à personnaliser cette diapositive en ajoutant des détails supplémentaires ou des éléments visuels pertinents pour votre présentation. Assurez-vous de fournir des informations claires et concises pour sensibiliser votre auditoire à cette importante vulnérabilité de sécurité.

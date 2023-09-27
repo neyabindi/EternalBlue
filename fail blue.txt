@@ -1,0 +1,51 @@
+Bien sûr ! Voici un exemple de présentation sur la faille MS17-010, connue sous le nom d'EternalBlue :
+
+Slide 1:
+- Titre : Faille MS17-010 (EternalBlue) - Une vulnérabilité majeure dans Windows
+- Introduction : Présentation de la faille et de son impact
+
+Slide 2:
+- Contexte : Brève explication de l'importance de la sécurité des systèmes d'exploitation
+- But de la présentation : Examiner en détail la faille MS17-010 et ses conséquences
+
+Slide 3:
+- Qu'est-ce que la faille MS17-010 (EternalBlue) ?
+- Explication de la vulnérabilité : Vulnérabilité du protocole SMB dans les anciennes versions de Windows
+- Impact potentiel : Possibilité d'exécution de code à distance et de propagation rapide sur les réseaux
+
+Slide 4:
+- Conséquences de l'exploitation de la faille MS17-010
+- Exemple de l'attaque WannaCry en 2017 : Ransomware majeur ayant affecté des centaines de milliers de systèmes dans le monde entier
+- Perturbations majeures dans les organisations : Hôpitaux, entreprises, services publics touchés
+
+Slide 5:
+- Mesures prises par Microsoft
+- Publication du correctif de sécurité : Réponse de Microsoft après la découverte de la faille
+- Importance des mises à jour régulières : Sensibilisation à la nécessité de maintenir les systèmes à jour pour éviter les attaques
+
+Slide 6:
+- Leçons tirées de la faille MS17-010
+- Importance de la sécurité proactive : Identification et correction des vulnérabilités avant leur exploitation
+- Sensibilisation à la sécurité informatique : Renforcement des pratiques de sécurité, sensibilisation aux risques potentiels
+
+Slide 7:
+- Conclusion : Récapitulation de la faille MS17-010 et de ses implications
+- Appel à l'action : Encourager les bonnes pratiques de sécurité, notamment la mise à jour régulière des systèmes d'exploitation
+
+Slide 8:
+- Questions et réponses
+
+N'oubliez pas d'adapter cette présentation à vos besoins spécifiques, en ajoutant des détails supplémentaires et en utilisant des graphiques ou des images pour illustrer vos points. Assurez-vous de bien comprendre le sujet et de vous appuyer sur des sources fiables pour fournir des informations précises lors de votre présentation.
+
+
+
+
+Voici un exemple de question et de réponse qui pourraient être abordées lors d'une présentation sur la faille MS17-010 (EternalBlue) :
+
+Question : Comment la faille MS17-010 a-t-elle été exploitée dans l'attaque WannaCry ?
+
+Réponse : L'attaque WannaCry a utilisé la faille MS17-010 pour se propager rapidement à travers les réseaux. Une fois qu'un système était infecté par WannaCry, le ransomware exploitait la vulnérabilité EternalBlue pour se déployer automatiquement vers d'autres machines connectées sur le réseau. Cela a permis une propagation rapide et a entraîné une infection massive de systèmes à l'échelle mondiale.
+
+Il est important de noter que WannaCry n'était pas spécifiquement conçu pour cibler des systèmes spécifiques, mais il a exploité de manière opportuniste les machines vulnérables à la faille MS17-010. Les systèmes Windows qui n'avaient pas appliqué le correctif de sécurité étaient particulièrement exposés à cette attaque.
+
+N'hésitez pas à ajuster cette réponse en fonction de votre présentation et à inclure d'autres questions et réponses pertinentes pour approfondir la compréhension de la faille MS17-010 et de ses conséquences.

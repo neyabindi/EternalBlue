@@ -1,0 +1,53 @@
+prendre DAMMARIES:
+
+FAIRE EN Sorte que c site suive le standard, suive le type predefini:
+
+-pas d'AD,
+-definir le plan de migration
+-
+
+il faut :
+
+un etat de l'art : presenter l'entreprise, parler des differents services, procedures ,processm=, normes
+
+explication de ce qu'il faut faire :
+parler du site , dire ce qui ne va pas et ce qu'il faut faire,parler du shema reseau,l'etat de recuperation
+ - le serveur titan et definir tout ce qu'il y a affaire pour que ça ressemble au standard.
+impossible de virtualiser le systeme crms qui est un vieux systeme et qui risque de ne pas marché.
+
+la mise en ouevre :controle, test
+
+
+-il faut dabord le shema reseau lors de la recuperaction et ensuite avec le standard
+-l'etape
+
+nas logs pour loguer les flux internet pour la reglementation.
+
+
+mise en oeuvre:
+mise en place parefeu zyxel + switch +nas log (Aout 2022)
+pkoi?pour avoir un reseau qui correspond au standard 
+comment : fourniture du schema reseau au prestataire
+
+deploiement serveur d'application TITAN(Juillet 2022)
+pkoi?pour standaiser l'arrivé de l'etablissement dans le groupe avec l'utilisation de TITAN qui est le logiciel commun.
+comment:le prestataire malta informatique a installé la version serveur et nous la version cliente
+
+Remise en place du wifi(Aout 2022)
+pkoi? pour stamdardiser et pour le conforme des utilisateurs lors de l'utilisation des services
+comment:fourniture du schema reseau au prestataire
+
+changement de l'autocom (decembre 2022)
+pkoi?il n'existait plus d'autocom pour la telephonie
+comment?par le prestataire habituel
+
+changement du copieur (fevrier 2023)
+comment:par AMParis qui a installé des ricoh
+
+deploiement serveur NAS (JUIN 2023)
+pkoi? pour la sauvegarde et la facilité de gestion
+comment?par le service informatique interne
+
+revocation de l'ad (juillet)
+pkoi?
+comment? par le service informatique
